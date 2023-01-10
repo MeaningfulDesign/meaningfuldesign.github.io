@@ -5,7 +5,7 @@ description: Welcome to the site for the Being Meaningful Studio, taking place o
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
 
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#79219C" # the scheme can be any HEX code like "#00aa55"
 
 sass:
   sass_dir: /assets/css/_sass
