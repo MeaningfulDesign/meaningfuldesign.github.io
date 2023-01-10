@@ -4,8 +4,14 @@
 - title: About
   link: /about/
 
-- title: Services
-  link: "/services/"
+- title: Organizers
+  link: "/organizers/"
 
-- title: Contact
-  link: "/contact/"
+- title: Participate
+  link: "/participate/"
+
+- title: Inspiration
+  link: "/inspiration/"
+
+- title: Program
+  link: "/program/"
