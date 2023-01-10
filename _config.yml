@@ -1,6 +1,5 @@
-title: Being Meaningful
-description: Welcome to the site for the Being Meaningful Studio, taking place on February 26, 2023 at the 17th International Conference on Tangible Embedded and Embodied Interaction (TEI'23).
-# description: >- # this means to ignore newlines until "baseurl:"
+title: Business Frontpage
+description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
 
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
