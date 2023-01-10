@@ -5,6 +5,8 @@ permalink: /about/
 
 ## About the Studio
 
+[**Find our Studio proposal here**](http://meaningfuldesign.github.io/docs/TEI_23_Studio___Soma_Reflective_Technology.pdf)
+
 A one-size-fits-all design mentality, rooted in objective efficiency, is ubiquitous in our mass-production society. We aim
 to counter this mindset through the exploration of relevant technology and topics in TEI and other HCI communities,
 including flexible and organic materials, biodata and biofeedback, e-textiles and material discourse, and soft robotics.
