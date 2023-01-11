@@ -1,14 +1,18 @@
----
----
-
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+
+<style>
+body {
+  background-image: url('/docs/spikes.png');
+}
+</style>
 
 <body>
   {% include navigation.html %} {% include header.html %}
   <!-- Page Content -->
   <div class="container mb-5">
+    <br />
     {{ content }}
   </div>
   <!-- /.container -->
