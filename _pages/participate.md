@@ -4,6 +4,7 @@ permalink: /participate/
 ---
 
 ## Participate
+<hr />
 
 In order to attend this Studio, we ask that you submit a short position "paper." This position should provide details about a relevant data stream, probe, or interaction paradigm which you are working with or would like to explore, and what aspects of soma-reflective strategies and/or flexible materials you are have incorporated already or plan to in the future to benefit your research. We further encourage you to include photos and videos related to materials and prototypes and any other work you wish to discuss.
 

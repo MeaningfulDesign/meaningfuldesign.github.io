@@ -4,6 +4,7 @@ permalink: /organizers/
 ---
 
 ## Organizers
+<hr />
 
 |<img src="https://meaningfuldesign.github.io/docs/images/organizers/alice.png" alt="drawing" width="200"/>|<img width=70/>|<img src="https://meaningfuldesign.github.io/docs/images/organizers/courtney.png" alt="drawing" width="200"/>|<img width=70/>|<img src="https://meaningfuldesign.github.io/docs/images/organizers/charlotte.png" alt="drawing" width="200"/>|<img width=70/>|<img src="https://meaningfuldesign.github.io/docs/images/organizers/sophie.png" alt="drawing" width="200"/> |
 | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | 
