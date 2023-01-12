@@ -26,7 +26,7 @@ permalink: /inspiration/
 <a href="https://doi.org/10.1145/3519391.3519394" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image9_Pudica.png" alt="" style="height:292px;"></a>
 <!--  -->
 <a href="https://doi.org/10.1145/3430524.3446065" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image10_PheB.png" alt="" style="height:301px;"></a>
-<a href="https://doi.org/10.1145/2858036.2858192" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image11_WearAScreen.png" alt="" style="height:300px;"></a>
+<a href="https://doi.org/10.1145/2858036.2858192" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image12_FeatherHair.png" alt="" style="height:300px;"></a>
 
 <!-- <div class="container">
             <div class="gallery">
