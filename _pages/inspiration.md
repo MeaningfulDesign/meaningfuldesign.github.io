@@ -61,7 +61,7 @@ permalink: /inspiration/
                     <img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image10_PheB.png" alt="Gallery image 1" class="gallery__img">
                 </figure>
                <figure class="gallery__item gallery__item--6">
-                    <img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image11_WearAScreen.png" alt="Gallery image 1" class="gallery__img">
+                    <img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image12_FeatherHair.png" alt="Gallery image 1" class="gallery__img">
                 </figure>
             </div>
         </div> -->
