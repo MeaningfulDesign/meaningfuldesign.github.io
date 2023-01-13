@@ -26,7 +26,17 @@ permalink: /inspiration/
 <a href="https://doi.org/10.1145/3519391.3519394" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image9_Pudica.png" alt="" style="height:292px;"></a>
 <!--  -->
 <a href="https://doi.org/10.1145/3430524.3446065" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image10_PheB.png" alt="" style="height:301px;"></a>
-<a href="https://doi.org/10.1145/2858036.2858192" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image12_FeatherHair.png" alt="" style="height:300px;"></a>
+<a href="https://doi.org/10.1145/2858036.2858192" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image11_WearAScreen.png" alt="" style="height:300px;"></a>
+<!--  -->
+<a href="https://dl.acm.org/doi/10.1145/3532106.3533527" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image12_FeatherHair.png" alt="" style="height:267px;"></a>
+<a href="https://dl.acm.org/doi/10.1145/3173574.3173668" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image13_TiltingBowl.png" alt="" style="height:267px;"></a>
+<a href="https://dl.acm.org/doi/10.1145/258549.258715" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image14_TangibleBits.png" alt="" style="height:267px;"></a>
+<!--  -->
+<a href="https://dl.acm.org/doi/10.5555/645968.674740" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image15_Ambient.png" alt="" style="height:269px;"></a>
+<a href="https://dl.acm.org/doi/10.1145/3532106.3533572" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image16_MaterialEntanglement.png" alt="" style="height:269px;"></a>
+<a href="https://dl.acm.org/doi/10.1145/3491102.3517713" target="blank"><img src="https://meaningfuldesign.github.io/docs/images/inspirations/Image18_Flavorium.png" alt="" style="height:269px;"></a>
+
+
 
 <!-- <div class="container">
             <div class="gallery">

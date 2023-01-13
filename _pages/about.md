@@ -32,3 +32,6 @@ community and become conscious designers of technologies and, therefore, human e
 <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;background-color:white;margin-left:0;padding:10px;text-align:left;">
 Alice C. Haynes, Courtney N. Reed, Charlotte Nordmoen, and Sophie Skach. 2023. Being Meaningful: Weaving Soma-Reflective Technological Mediations into the Fabric of Daily Life. In <i>Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction</i>. ACM, New York, NY, USA, 5 pages. <a href="https://doi.org/10.1145/3569009.3571844" target="_blank">https://doi.org/10.1145/3569009.3571844</a> (Warsaw, Poland, Feb. 26-March 1, 2023)
 </div>
+
+<!-- ## The Soma Design Manifesto
+<hr /> -->
