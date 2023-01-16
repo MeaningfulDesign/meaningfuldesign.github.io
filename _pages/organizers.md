@@ -9,13 +9,13 @@ permalink: /organizers/
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/alice.png" alt="drawing" width="200"/></th>
+<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/alice.png" alt="Alice Haynes" width="200"/></th>
 <th style="text-align:center"><img width=25/></th>
-<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/courtney.png" alt="drawing" width="200"/></th>
+<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/courtney.png" alt="Courtney Reed" width="200"/></th>
 <th style="text-align:center"><img width=25/></th>
-<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/charlotte.png" alt="drawing" width="200"/></th>
+<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/charlotte.png" alt="Charlotte Nordmoen" width="200"/></th>
 <th style="text-align:center"><img width=25/></th>
-<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/sophie.png" alt="drawing" width="200"/></th>
+<th style="text-align:center"><img src="https://meaningfuldesign.github.io/docs/images/people/sophie.png" alt="Sophie Skach" width="200"/></th>
 </tr>
 </thead>
 <tbody>
