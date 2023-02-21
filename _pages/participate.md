@@ -6,7 +6,7 @@ permalink: /participate/
 ## Participate
 <hr />
 <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;background-color:white;margin-left:0;padding:10px;text-align:left;">
-<p><strong>Our Call for Participants is now closed.</strong></p>
+<p><strong>Please get in touch regarding late proposal submissions.</strong></p>
 <br />
 <br />
 <br />
