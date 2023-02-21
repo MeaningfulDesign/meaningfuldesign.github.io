@@ -6,16 +6,19 @@ permalink: /participate/
 ## Participate
 <hr />
 <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;background-color:white;margin-left:0;padding:10px;text-align:left;">
+<p><strong>Our Call for Participants is now closed.</strong></p>
+<br />
+<br />
+<br />
+
 <p>In order to attend this Studio, we ask that you submit a short position "paper." This position should provide details about a relevant data stream, probe, or interaction paradigm which you are working with or would like to explore, and what aspects of soma-reflective strategies and/or flexible materials you are have incorporated already or plan to in the future to benefit your research. We further encourage you to include photos and videos related to materials and prototypes and any other work you wish to discuss.</p>
 
-<p>The submission should be made prior to registration for the Studio to our Studio email <a href="mailto:beingmeaningfulstudio@gmail.com" target="_blank">beingmeaningfulstudio@gmail.com</a>. If you have any questions about the Studio or how your work might fit into this discourse, please feel free to get in touch with the organisers via this email.</p>
+<!-- <p>The submission should be made prior to registration for the Studio to our Studio email <a href="mailto:beingmeaningfulstudio@gmail.com" target="_blank">beingmeaningfulstudio@gmail.com</a>. If you have any questions about the Studio or how your work might fit into this discourse, please feel free to get in touch with the organisers via this email.</p> -->
 
-<br />
+<!-- <br />
 <a class="btn btn-primary btn-lg" href="mailto:beingmeaningfulstudio@gmail.com" target = "blank">Send Your Position! &raquo;</a>
 <br />
-</div>
-
-<br />
+</div> -->
 
 <div style="border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:100%;float:center;background-color:white;margin-left:0;padding:10px;text-align:left;">
 <p>The position “paper” can be one of the following (we're ~flexible!~):</p>
