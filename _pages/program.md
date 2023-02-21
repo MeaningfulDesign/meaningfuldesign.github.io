@@ -30,11 +30,13 @@ If you are joining online, the Zoom invite has will sent out via email - keep an
   <li><strong>Anna Nolda Nagele</strong>, Media and Arts Technology Centre for Doctoral Training, Queen Mary University of London, UK</li>
       <ul>
       <li><a href="https://doi.org/10.1145/3491101.3519677" target="_blank">The Subjectivities of Wearable Sleep-Trackers - A Discourse Analysis.</a> Anna Nolda Nagele, Julian Hough, and Zara Dinnen. 2022. Proc. CHI EA '22.</li>
+      <li><a href="https://annanoldanagele.com/" target="_blank">Anna's Online Portfolio</a>
     </ul>
 
   <li><strong>Aino E. Ojala</strong>, Aalto University School of Arts, Design and Architecture, FI</li>
         <ul>
       <li><a href="https://dl.acm.org/doi/10.1145/3569009.3576186" target="_blank">I Feel You: Exploring possibilities to create touch-responsive woven textiles imitating living beings.</a> Aino E. Ojala. 2023. Proc. TEI '23.</li>
+      <li><a href="www.instagram.com/ojalaaino" target="_blank">Aino's Online Portfolio</a>
     </ul>
 
   <li><strong>Teresa Pelinski Ramos</strong>, AI and Music Centre for Doctoral Training, Queen Mary University of London, UK</li>
@@ -46,6 +48,7 @@ If you are joining online, the Zoom invite has will sent out via email - keep an
   <li><strong>Annemiek Veldhuis</strong>, School of Interactive Arts & Technology, Simon Frasor University, CA</li>
         <ul>
       <li><a href="http://meaningfuldesign.github.io/docs/SomaDesignWorkshop_Positionpaper_AnnemiekVeldhuis_Version2.pdf" target="_blank">Body and Mind: Incorporating Soma Design Principles in Educational Design.</a> Annemiek Veldhuis and Alissa Antle. 2023. Being <em>Meaningful</em>: Weaving Soma-Reflective Technological Mediations into the Fabric of Daily Life @ TEI '23.</li>
+      <li><a href="annemiekveldhuis.nl" target="_blank">Annemiek's Online Portfolio</a>
     </ul>
 </ul>
 <p>
